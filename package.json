@@ -1,0 +1,23 @@
+{
+  "name": "chatapp-site",
+  "version": "1.0.0",
+  "description": "Realtime chat app with rooms (vanilla JS + Tailwind)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Mamonov Vlad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.3",
+    "socket.io": "^4.5.0",
+    "tailwind": "^4.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "chatapp"
+  }
+}
