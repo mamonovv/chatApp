@@ -15,7 +15,9 @@
     "socket.io": "^4.5.0",
     "tailwind": "^4.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
   "repository": {
     "type": "git",
     "url": "chatapp"
